@@ -1,0 +1,4 @@
+-
+  group: "Sponsors"
+  elements:
+    - {name: "Stylight", description: "Stylight", link: "http://www.stylight.de/", imageUrl: "stylight.png"}
