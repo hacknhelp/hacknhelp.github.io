@@ -13,8 +13,8 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "Hack and Help"
 email: "mail@hacknhelp.org"
 description: "Hack and Help MeetUp"
-baseurl: "/hacknhelp"
-url: "http://hacknhelp.org"
+baseurl: "/"
+url: "http://hacknhelp.github.io"
 #permalink: "/blog/:title"
 
 # Organizer Info
