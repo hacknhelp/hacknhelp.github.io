@@ -179,6 +179,7 @@ footerBlocks:
   links:
    - {link: "http://munichacm.de", text: "Munich ACM"}
    - {link: "http://stylight.de", text: "Stylight"}
+   - {link: "https://www.facebook.com/nerds4refugees/", text: "Nerds4Refugees"}
  -
   title: "Contacts"
   links:
