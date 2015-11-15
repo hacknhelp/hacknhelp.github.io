@@ -72,7 +72,7 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "20", specialCharacter: "+", info: "attendees", detail: "from rockstar organisations"}
+ - {count: "60", specialCharacter: "+", info: "attendees", detail: "from rockstar organisations and helpers"}
  - {count: "5", specialCharacter: "+", info: "tables", detail: "of snacks, pizza and beer"}
  - {count: "1", specialCharacter: "", info: "goal", detail: "solving a big problem"}
 
