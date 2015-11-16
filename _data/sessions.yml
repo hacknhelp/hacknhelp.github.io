@@ -15,9 +15,16 @@
   description: "Afterpaty is a great time to have some fun and meet new people."
 - 
   id: 209
-  title: "Helpers Pitching"
+  title: "Helpers Pitching 1st Session"
   description: "Helpers from different organizations share their experiences."
-  speakers: [2]
+  speakers: [2,21,22]
+  language: en
+  complexity: Beginner
+- 
+  id: 210
+  title: "Helpers Pitching 2nd Session"
+  description: "Helpers from different organizations share their experiences."
+  speakers: [23,24,25]
   language: en
   complexity: Beginner
 - 
@@ -30,6 +37,6 @@
   id: 125
   title: "Welcome to Hack’n’Help"
   description: "Official start of the conference. Greatings from the organizers and sponsors."
-  speakers: [1]
+  speakers: [1,11]
   language: en
   complexity: Beginner

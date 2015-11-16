@@ -19,7 +19,121 @@
     icon: app-icons:github
     link: https://github.com/
 - 
+  id: 11
+  featured: true
+  name: "Iris Shih"
+  title: "TUM Graduate Student"
+  company: "Munich ACM"
+  country: "Munich, Germany"
+  thumbnailUrl: iris.jpg
+  bio: ''
+  badges:
+  - name: HacknHelp
+    description: ''
+    link: ''
+  socials:
+  - name: Twitter
+    icon: app-icons:twitter
+    link: https://twitter.com/
+  - name: GitHub
+    icon: app-icons:github
+    link: https://github.com/
+- 
   id: 2
+  featured: true
+  name: "Awesome Speakers"
+  title: ""
+  company: ""
+  country: "Munich, Germany"
+  thumbnailUrl: speaker1.jpg
+  bio: ''
+  socials:
+  - name: Google+
+    icon: app-icons:gplus
+    link: https://plus.google.com/
+  - name: Twitter
+    icon: app-icons:twitter
+    link: https://twitter.com/
+  - name: GitHub
+    icon: app-icons:github
+    link: https://github.com/
+- 
+  id: 21
+  featured: true
+  name: "Awesome Speakers"
+  title: ""
+  company: ""
+  country: "Munich, Germany"
+  thumbnailUrl: speaker1.jpg
+  bio: ''
+  socials:
+  - name: Google+
+    icon: app-icons:gplus
+    link: https://plus.google.com/
+  - name: Twitter
+    icon: app-icons:twitter
+    link: https://twitter.com/
+  - name: GitHub
+    icon: app-icons:github
+    link: https://github.com/
+- 
+  id: 22
+  featured: true
+  name: "Awesome Speakers"
+  title: ""
+  company: ""
+  country: "Munich, Germany"
+  thumbnailUrl: speaker1.jpg
+  bio: ''
+  socials:
+  - name: Google+
+    icon: app-icons:gplus
+    link: https://plus.google.com/
+  - name: Twitter
+    icon: app-icons:twitter
+    link: https://twitter.com/
+  - name: GitHub
+    icon: app-icons:github
+- 
+  id: 23
+  featured: true
+  name: "Awesome Speakers"
+  title: ""
+  company: ""
+  country: "Munich, Germany"
+  thumbnailUrl: speaker1.jpg
+  bio: ''
+  socials:
+  - name: Google+
+    icon: app-icons:gplus
+    link: https://plus.google.com/
+  - name: Twitter
+    icon: app-icons:twitter
+    link: https://twitter.com/
+  - name: GitHub
+    icon: app-icons:github
+    link: https://github.com/
+- 
+  id: 24
+  featured: true
+  name: "Awesome Speakers"
+  title: ""
+  company: ""
+  country: "Munich, Germany"
+  thumbnailUrl: speaker1.jpg
+  bio: ''
+  socials:
+  - name: Google+
+    icon: app-icons:gplus
+    link: https://plus.google.com/
+  - name: Twitter
+    icon: app-icons:twitter
+    link: https://twitter.com/
+  - name: GitHub
+    icon: app-icons:github
+    link: https://github.com/
+- 
+  id: 25
   featured: true
   name: "Awesome Speakers"
   title: ""
