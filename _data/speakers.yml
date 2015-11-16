@@ -1,4 +1,4 @@
-- 
+-
   id: 1
   featured: true
   name: "Johann Romefort"
@@ -18,7 +18,7 @@
   - name: GitHub
     icon: app-icons:github
     link: https://github.com/
-- 
+-
   id: 11
   featured: true
   name: "Iris Shih"
@@ -38,12 +38,12 @@
   - name: GitHub
     icon: app-icons:github
     link: https://github.com/
-- 
+-
   id: 2
   featured: true
-  name: "Awesome Speakers"
+  name: "Sunny Kim"
   title: ""
-  company: ""
+  company: "Nerds4Refugees"
   country: "Munich, Germany"
   thumbnailUrl: speaker1.jpg
   bio: ''
@@ -57,12 +57,12 @@
   - name: GitHub
     icon: app-icons:github
     link: https://github.com/
-- 
+-
   id: 21
   featured: true
-  name: "Awesome Speakers"
+  name: "Volker Werbus"
   title: ""
-  company: ""
+  company: "Refugees Online e.V."
   country: "Munich, Germany"
   thumbnailUrl: speaker1.jpg
   bio: ''
@@ -76,7 +76,7 @@
   - name: GitHub
     icon: app-icons:github
     link: https://github.com/
-- 
+-
   id: 22
   featured: true
   name: "Awesome Speakers"
@@ -94,12 +94,12 @@
     link: https://twitter.com/
   - name: GitHub
     icon: app-icons:github
-- 
+-
   id: 23
   featured: true
-  name: "Awesome Speakers"
+  name: "Christian Heise"
   title: ""
-  company: ""
+  company: "Campus for Change e.V."
   country: "Munich, Germany"
   thumbnailUrl: speaker1.jpg
   bio: ''
@@ -113,12 +113,12 @@
   - name: GitHub
     icon: app-icons:github
     link: https://github.com/
-- 
+-
   id: 24
   featured: true
-  name: "Awesome Speakers"
+  name: "Martin Schrimpf, Daniel Kehne"
   title: ""
-  company: ""
+  company: "Integreat-App"
   country: "Munich, Germany"
   thumbnailUrl: speaker1.jpg
   bio: ''
@@ -132,12 +132,12 @@
   - name: GitHub
     icon: app-icons:github
     link: https://github.com/
-- 
+-
   id: 25
   featured: true
-  name: "Awesome Speakers"
+  name: "eleza.org"
   title: ""
-  company: ""
+  company: "eleza.org"
   country: "Munich, Germany"
   thumbnailUrl: speaker1.jpg
   bio: ''
@@ -151,4 +151,3 @@
   - name: GitHub
     icon: app-icons:github
     link: https://github.com/
-
