@@ -6,7 +6,7 @@ safe: false
 # Build Settings
 markdown: kramdown
 permalink: pretty
-exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
+exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME', vendor]
 
 
 # Site Settings
@@ -27,7 +27,7 @@ organizerLink: "https://www.hacknhelp.org"
 
 # Head
 metaKeywords: "refugees, tech"
-twitterAccount: "@CSClubMuc"
+twitterAccount: "@HACKNHELP"
 addThisEvent: true
 socialImageSrcGooglePlus: "/img/sections-background/hero.jpg"
 socialImageSrcTwitter: "/img/sections-background/hero.jpg"
@@ -36,8 +36,8 @@ socialImageSrcFacebook: "/img/sections-background/hero.jpg"
 # Documents
 #c4pUrl: "https://bit.ly/dfua-c4p"
 #c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
-c4sponsorsUrl: ""
-
+c4sponsorsUrl: "mailto:mail@hacknhelp.org"
+seaturl: "https://www.facebook.com/events/1519323478390024/"
 
 # Navigation
 navigationLinks:
