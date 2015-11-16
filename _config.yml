@@ -33,6 +33,10 @@ socialImageSrcGooglePlus: "/img/sections-background/hero.jpg"
 socialImageSrcTwitter: "/img/sections-background/hero.jpg"
 socialImageSrcFacebook: "/img/sections-background/hero.jpg"
 
+##
+googleAnalyticsTrackingId: "UA-70245610-1"
+googleAnalyticsSiteUrl: "hacknhelp.org"
+
 # Documents
 #c4pUrl: "https://bit.ly/dfua-c4p"
 #c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
