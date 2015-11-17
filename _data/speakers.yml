@@ -151,3 +151,22 @@
   - name: GitHub
     icon: app-icons:github
     link: https://github.com/
+-
+  id: 26
+  featured: true
+  name: "Robert Urban"
+  title: ""
+  company: "horizont - Perspektive Vielfalt"
+  country: "Munich, Germany"
+  thumbnailUrl: speaker1.jpg
+  bio: ''
+  socials:
+  - name: Google+
+    icon: app-icons:gplus
+    link: https://plus.google.com/
+  - name: Twitter
+    icon: app-icons:twitter
+    link: https://twitter.com/
+  - name: GitHub
+    icon: app-icons:github
+    link: https://github.com/

@@ -1,39 +1,39 @@
-- 
+-
   id: 1001
   title: "Arrival & Get-together"
   service: true
   description: "Grab some drinks and snacks and get ready."
-- 
+-
   id: 1003
   title: "Coffee break"
   service: true
   description: "The best time to talk with all the helpers and attendees"
-- 
+-
   id: 1006
   title: "Pitching Potential Projects for Hackathon"
   service: true
   description: "Get ready for making your ideas possible for the hackathon!"
-- 
+-
   id: 209
   title: "Helpers Pitching 1st Session"
   description: "Helpers from different organizations share their experiences."
   speakers: [2,21,22]
   language: en
   complexity: Beginner
-- 
+-
   id: 210
   title: "Helpers Pitching 2nd Session"
   description: "Helpers from different organizations share their experiences."
-  speakers: [23,24,25]
+  speakers: [23,24,25,26]
   language: en
   complexity: Beginner
-- 
+-
   id: 309
   title: "Forming Groups to Brainstorm"
   service: true
   description: "Time to team up and brainstorm some possible ideas."
   complexity: Beginner
-- 
+-
   id: 125
   title: "Welcome to Hack’n’Help"
   description: "Official start of the conference. Greatings from the organizers and sponsors."
