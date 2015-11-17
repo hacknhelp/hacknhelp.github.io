@@ -6,16 +6,16 @@
   timeslots:
     - {
         startTime: "18:00",
-        endTime: "18:30",
+        endTime: "18:10",
         sessionIds: [1001]
     }
     - {
-        startTime: "18:30",
-        endTime: "18:45",
+        startTime: "18:10",
+        endTime: "18:30",
         sessionIds: [125]
     }
     - {
-        startTime: "18:50",
+        startTime: "18:30",
         endTime: "19:30",
         sessionIds: [209]
     }
@@ -26,16 +26,16 @@
     }
     - {
         startTime: "19:45",
-        endTime: "20:25",
+        endTime: "20:30",
         sessionIds: [210]
     }
     - {
-        startTime: "20:25",
-        endTime: "21:00",
+        startTime: "20:30",
+        endTime: "21:30",
         sessionIds: [309]
     }
     - {
-        startTime: "21:00",
+        startTime: "21:30",
         endTime: "~",
         sessionIds: [1006]
     }
