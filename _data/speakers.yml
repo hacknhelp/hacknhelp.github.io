@@ -170,3 +170,41 @@
   - name: GitHub
     icon: app-icons:github
     link: https://github.com/
+-
+  id: 27
+  featured: true
+  name: "Franziska Kaiser"
+  title: ""
+  company: "Kiron University"
+  country: "Munich, Germany"
+  thumbnailUrl: speaker1.jpg
+  bio: ''
+  socials:
+  - name: Google+
+    icon: app-icons:gplus
+    link: https://plus.google.com/
+  - name: Twitter
+    icon: app-icons:twitter
+    link: https://twitter.com/
+  - name: GitHub
+    icon: app-icons:github
+    link: https://github.com/
+-
+  id: 28
+  featured: true
+  name: "Ferdi van Heerden"
+  title: ""
+  company: "Refugees on Rails"
+  country: "Munich, Germany"
+  thumbnailUrl: speaker1.jpg
+  bio: ''
+  socials:
+  - name: Google+
+    icon: app-icons:gplus
+    link: https://plus.google.com/
+  - name: Twitter
+    icon: app-icons:twitter
+    link: https://twitter.com/
+  - name: GitHub
+    icon: app-icons:github
+    link: https://github.com/
