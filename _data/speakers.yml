@@ -116,11 +116,11 @@
 -
   id: 24
   featured: true
-  name: "Martin Schrimpf, Daniel Kehne"
+  name: "Martin Schrimpf, Julia Götz"
   title: ""
   company: "Integreat-App"
   country: "Munich, Germany"
-  thumbnailUrl: speaker1.jpg
+  thumbnailUrl: Martin.png
   bio: ''
   socials:
   - name: Google+
