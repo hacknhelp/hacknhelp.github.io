@@ -208,3 +208,22 @@
   - name: GitHub
     icon: app-icons:github
     link: https://github.com/
+-
+  id: 29
+  featured: true
+  name: "Benjamin Harr"
+  title: ""
+  company: "Chatling"
+  country: "Munich, Germany"
+  thumbnailUrl: speaker1.jpg
+  bio: ''
+  socials:
+  - name: Google+
+    icon: app-icons:gplus
+    link: https://plus.google.com/
+  - name: Twitter
+    icon: app-icons:twitter
+    link: https://twitter.com/
+  - name: GitHub
+    icon: app-icons:github
+    link: https://github.com/
