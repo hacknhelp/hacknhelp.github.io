@@ -227,3 +227,41 @@
   - name: GitHub
     icon: app-icons:github
     link: https://github.com/
+-
+  id: 30
+  featured: true
+  name: "Zar Ita"
+  title: ""
+  company: "Roots2Refugee"
+  country: "Munich, Germany"
+  thumbnailUrl: speaker1.jpg
+  bio: ''
+  socials:
+  - name: Google+
+    icon: app-icons:gplus
+    link: https://plus.google.com/
+  - name: Twitter
+    icon: app-icons:twitter
+    link: https://twitter.com/
+  - name: GitHub
+    icon: app-icons:github
+    link: https://github.com/
+-
+  id: 31
+  featured: true
+  name: "Alexandra Mittermaier"
+  title: ""
+  company: ""
+  country: "Munich, Germany"
+  thumbnailUrl: speaker1.jpg
+  bio: ''
+  socials:
+  - name: Google+
+    icon: app-icons:gplus
+    link: https://plus.google.com/
+  - name: Twitter
+    icon: app-icons:twitter
+    link: https://twitter.com/
+  - name: GitHub
+    icon: app-icons:github
+    link: https://github.com/
