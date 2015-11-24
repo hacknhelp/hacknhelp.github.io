@@ -1,41 +1,77 @@
 -
-  date: "2015-11-19"
-  dateReadable: "November 19"
+  date: "2015-11-28"
+  dateReadable: "November 28"
   tracks:
     - {title: "Stylight", color: "#90be4e"}
   timeslots:
     - {
-        startTime: "18:00",
-        endTime: "18:10",
-        sessionIds: [1001]
+        startTime: "10:00",
+        endTime: "10:15",
+        sessionIds: [101]
     }
     - {
-        startTime: "18:10",
+        startTime: "10:15",
+        endTime: "10:30",
+        sessionIds: [102]
+    }
+    - {
+        startTime: "10:30",
+        endTime: "11:00",
+        sessionIds: [103]
+    }
+    - {
+        startTime: "11:00",
+        endTime: "13:00",
+        sessionIds: [104]
+    }
+    - {
+        startTime: "13:00",
+        endTime: "14:00",
+        sessionIds: [105]
+    }
+    - {
+        startTime: "14:00",
+        endTime: "18:00",
+        sessionIds: [106]
+    }
+    - {
+        startTime: "18:00",
         endTime: "18:30",
-        sessionIds: [125]
+        sessionIds: [107]
     }
     - {
         startTime: "18:30",
-        endTime: "19:30",
-        sessionIds: [209]
-    }
-    - {
-        startTime: "19:30",
-        endTime: "19:45",
-        sessionIds: [1003]
-    }
-    - {
-        startTime: "19:45",
-        endTime: "20:30",
-        sessionIds: [210]
-    }
-    - {
-        startTime: "20:30",
-        endTime: "21:30",
-        sessionIds: [309]
-    }
-    - {
-        startTime: "21:30",
         endTime: "~",
-        sessionIds: [1006]
+        sessionIds: [108]
+    }
+-
+  date: "2015-11-28"
+  dateReadable: "November 28"
+  tracks:
+    - {title: "Stylight", color: "#90be4e"}
+  timeslots:
+    - {
+        startTime: "10:00",
+        endTime: "10:15",
+        sessionIds: [201]
+    }
+    - {
+        startTime: "10:15",
+        endTime: "13:00",
+        sessionIds: [202]
+    }
+    - {
+        startTime: "13:00",
+        endTime: "14:00",
+        sessionIds: [203]
+    }
+    - {
+        startTime: "14:00",
+        endTime: "16:00",
+        sessionIds: [204]
+    }
+    - {
+        startTime: "16:00",
+        endTime: "16:30",
+        sessionIds: [205]
     }

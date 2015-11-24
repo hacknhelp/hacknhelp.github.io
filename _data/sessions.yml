@@ -1,42 +1,52 @@
 -
-  id: 1001
+  id: 101
   title: "Arrival & Get-together"
-  service: true
   description: "Grab some drinks and snacks and get ready."
 -
-  id: 1003
-  title: "Pizza break"
-  service: true
-  description: "The best time to talk with all the helpers and attendees"
+  id: 102
+  title: "Introduction"
+  description: "Official start of the Hackathon. Greetings from the organisers and sponsors."
 -
-  id: 1006
+  id: 103
   title: "Pitching Potential Projects for Hackathon"
-  service: true
-  description: "Get ready for making your ideas possible for the hackathon!"
+  description: "Get ready for making your ideas possible for the hackathon and find a team!"
 -
-  id: 209
-  title: "Helpers Pitching 1st Session"
-  description: "Helpers from different organizations share their experiences."
-  speakers: [2,21,22,27,28]
-  language: en
-  complexity: Beginner
+  id: 104
+  title: "Coding time"
+  description: "Get to your computers and hack till.. there is lunch."
 -
-  id: 210
-  title: "Helpers Pitching 2nd Session"
-  description: "Helpers from different organizations share their experiences."
-  speakers: [23,24,26,29,30,31]
-  language: en
-  complexity: Beginner
+  id: 105
+  title: "Lunch Break"
+  description: "Grab some pizza and talk to your fellow hackers."
 -
-  id: 309
-  title: "Forming Groups to Brainstorm"
-  service: true
-  description: "Time to team up and brainstorm some possible ideas."
-  complexity: Beginner
+  id: 106
+  title: "Coding time"
+  description: "Get to your computers and hack till.. there is a presentation."
 -
-  id: 125
-  title: "Welcome to Hack’n’Help"
-  description: "Official start of the conference. Greatings from the organizers and sponsors."
-  speakers: [1,11]
-  language: en
-  complexity: Beginner
+  id: 107
+  title: "Presentation of the project status"
+  description: "Tell people how awesome you and your project are and let them know how far you've got."
+-
+  id: 108
+  title: "Spring Roll Coding"
+  description: "Grab some spring rolls and hack till.. you fall asleep."
+-
+  id: 201
+  title: "Arrival & Get-together"
+  description: "Grab some drinks and snacks and get ready."
+-
+  id: 202
+  title: "Coding time"
+  description: "Get to your computers and hack till.. there is lunch."
+-
+  id: 203
+  title: "Lunch Break"
+  description: "Grab some pizza and talk to your fellow hackers."
+-
+  id: 204
+  title: "Coding time"
+  description: "Get to your computers and hack till.. there is a presentation."
+-
+  id: 205
+  title: "Presentation of the project status"
+  description: "Tell people how awesome you and your project are and let them know how far you've got."
