@@ -3,6 +3,7 @@
   elements:
     - {name: "Stylight", description: "Stylight", link: "http://www.stylight.de/", imageUrl: "stylight.png"}
 -
-  group: "Media Partner"
+  group: "Supporter"
   elements:
     - {name: "SUN", description: "stipendiatisches Startupnetzwerk SUN e.V.", link: "http://www.startupnetzwerk.org/", imageUrl: "sun.png"}
+    - {name: "Nerds4Refugees", description: "Nerds4Refugees", link: "https://www.facebook.com/nerds4refugees/", imageUrl: "nerds4refugees.png"}
