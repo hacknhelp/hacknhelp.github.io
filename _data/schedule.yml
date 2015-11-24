@@ -45,8 +45,8 @@
         sessionIds: [108]
     }
 -
-  date: "2015-11-28"
-  dateReadable: "November 28"
+  date: "2015-11-29"
+  dateReadable: "November 29"
   tracks:
     - {title: "Stylight", color: "#90be4e"}
   timeslots:
