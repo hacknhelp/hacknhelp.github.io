@@ -50,6 +50,7 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Schedule"}
  #- {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
+ - {permalink: "/ideation/", text: "Ideation Review"}
  #- {permalink: "/logistics/", text: "Logistics"}
 bottomNavigationLinks:
  #- {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
@@ -125,54 +126,6 @@ organizersTitle: "Organizers"
 partnersTitle: "Partners"
 partnersC4sponsorsButton: "Become a sponsor"
 
-# Subscribe Block (we dont need)
-subscribeImage: "subscribe.jpg"
-subscribeTitle: "Subscribe for updates"
-subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
-
-#Tickets Block (We dont need)
-ticketsTitle: "Pricetable"
-ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
-ticketsOffers:
--
- name: "Early Bird"
- price: "350"
- priceCurrency: "UAH"
- ticketsNumber: "150"
- ribbon: "-5%"
- buyButtonLink: "http://dfua.ticketforevent.com/"
- buyButtonText: "Buy Now"
- ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
- validFrom: "2014-08-25T10:00"
- validThrough: "2014-09-30T23:59"
--
- name: "Last Chance"
- price: "450"
- priceCurrency: "UAH"
- ticketsNumber: "100"
- ribbon: "-20%"
- featured: true
- buyButtonLink: "http://dfua.ticketforevent.com/"
- buyButtonText: "Buy Now"
- ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
- validFrom: "2014-10-01T00:00"
- validThrough: "2014-10-23T23:59"
- disabled: true
--
- name: "Student"
- price: "200"
- priceCurrency: "UAH"
- ticketsNumber: "50"
- buyButtonLink: "http://dfua.ticketforevent.com/"
- buyButtonText: "Buy Now"
- additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
- ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
- validFrom: "2014-08-20T10:00"
- validThrough: "2014-10-23T23:59"
- soldOut: true
- soldOutText: "Sold Out"
-
 # Footer
 socialLinks:
  - {link: "", icon: "google-plus"}
@@ -193,6 +146,31 @@ footerBlocks:
  #  links:
  #   - {permalink: "/cod/", text: "Code of Conduct"}
 
+# Ideation
+ideationTitle: "Ideation MeetUp Review"
+ideationOrganisationsTitle: "Who came around?"
+organisationsRows:
+ - {title: "Nerds4Refugees", image: "nerds4refugees.png", details: "<a href='https://www.facebook.com/groups/nerds4refugees/'>Nerds4Refugees</a> are currently working on the <a href='https://engelsystem.de/'>Engelsystem</a>. This system is used by some organisations already but others need critical adaptions to it. Nerds4Refugees learned that it is important to be close to the real thing as well as being as fast as possible."}
+ - {title: "Refugees Online e.v.", slides: "https://drive.google.com/file/d/0B3S7mWjGvXu_YlItd3J1MmJVT1E/view?usp=sharing", image: "refugeesonline.jpg", details: "<a href='www.refugees-online.de'>Refugees Online</a> tries to provide internet access to every refugee. Their major problems are in between how to finance the project and the common thought, that internet access is a luxury. They currently use PFSense to provide the internet access. Every refugee has to be registered with it. This way it is possible to provide 1600 refugees with internet by using six DSL lines with 100Mb each."}
+ - {title: "Caritas", slides: "https://drive.google.com/file/d/0B3S7mWjGvXu_UkEtVG1Za2FuNHM/view?usp=sharing", image: "caritas.png", details: "<a href='https://www.caritas-nah-am-naechsten.de'>Caritas'</a> is part of the network <a href='https://willkommen-in-muenchen.de/'>'Willkommen in München'</a>. They are trying to be digital first and are in need of help now, especially with the winter coming. Challenges include communication with volunteers, coordination of volunteers and financing their endeavors. They say that it is important to: <ul><li>take the time something needs - it can be in beta first</li><li>to have long term solutions, as the people who come, want to stay</li><li>think about the people - it is not about the market, but the help</li></ul>"}
+ - {title: "Kiron University", slides: "https://drive.google.com/file/d/0BzqMoW6EWwvoWEFUOTVmbUlFQVk/view?usp=sharing", image: "kiron.png", details: "<a href='https://kiron.university/'>Kiron University</a> wants to provide world-class education for refugees. At the moment, their biggest problem is, that they do not have a centralized and digital database for all their information. Therefore, they require a process that makes it easier to have all information together, e.g. student information, ideally student profiles."}
+ - {title: "Refugees on Rails", slides: "https://drive.google.com/file/d/0B3S7mWjGvXu_WTU2YTVIRUJQQUk/view?usp=sharing", image: "refugeesonrails.png", details: "<a href='http://refugeesonrails.org/'>Refugees on Rails</a> has the general idea is that refugees become students at the school to learn IT skills and then they are matched with employers who are looking to hire people with those certain set of IT skills.  However, it is not just the case of having the right skill set; there also soft skills to be taught and networks to be built. The course uses online open-source learning programs, and they identify three different levels of students based on IT-knowledge, and the class takes three months ending in a demo day."}
+ - {title: "Campus for Change e.V.", slides: "https://drive.google.com/file/d/0B3S7mWjGvXu_YlNwM0RyZmJTYk0/view?usp=sharing", image: "campus4change.gif", details: "<a href='http://www.campus4change.org/'>Campus for Change</a> is a student organisation founded in 2009. They recently launched a mentoring project for refugees. The project is about people, interests and needs, which means building tandems, a relationship between student and refugee, mentor and mentee. During this project they faced several problems, including recruitment of students, matching of tandems as well as the preparation of the students as mentors."}
+ - {title: "Integreat", image: "integreat.jpg", slides: "https://drive.google.com/file/d/0B3S7mWjGvXu_MjFrZDEwN1BlRU0/view?usp=sharing", details: "<a href='http://integreat-app.de'>Integreat</a> is trying to provide an anser the big question: how do we get info from organisations to refugees? The thought behind the project is: info is almost always printed on papers, which is both hard to maintain and hard to distribute info, and not all refugees housed in one camp.  When refugees are distributed around town, it is then difficult to give exactly and all info refugees need.  There is a 50-page guide to inform the refugees on the longterm about integration and how to get information. They also found out that many refugees have smartphones."}
+ - {title: "horizont - Perspektive Vielfalt", slides: "https://drive.google.com/file/d/0B3S7mWjGvXu_NnlSU1FYRFpzZGc/view?usp=sharing", image: "horizont.png", details: "<a href='https://www.facebook.com/horizontperspektivevielfalt/'>horizont - Perspektive Vielfalt</a> wants to connect refugees with potential employers. The current situation is that there is a disconnection between motivated refugees 'stuck' in accommodations and companies and leisure clubs which would be of interest for them, and it is difficult to bridge this gap because the sites are often only in German and English."}
+ - {title: "Chatling", slides: "https://drive.google.com/file/d/0B3S7mWjGvXu_Y0hWUHhlYjhkRkk/view?usp=sharing", image: "chatling.png", details: "Chatling believes that integration originates from the ability to communicate, and therefore, they want to provide a basic communication tool to provide a first linguistic contact between cultures. Chatling is a messaging app, where two people chat on one device. Each person sees the whole conversation history in his or her own language, but the language can be switched to facilitate learning of the local language by the refugee. The biggest problem is that Google translate is sometimes inaccurate; therefore, there is a “try again” button the ask for a different and simpler way to phrase a message. A demo can be seen <a href='https://marvelapp.com/1fgh50j#8854021'>here</a>"}
+ - {title: "Roots2Refugees", slides: "https://drive.google.com/file/d/0B3S7mWjGvXu_ejF4Yk1BSHA2TVk/view?usp=sharing", image: "roots2refugees.png", details: "Roots2Refugees has the vision to build a social online community, that connects refugees to locals. Many locals do not get active because there is no easy and individual way to help. The solution is to build a social network for them to connect. Later on, an individual matching function is used to connect people 1:1, like a buddy program."}
+ideationSummaryTitle: "What happened so far?"
+ideationSummary:
+ - {text: "At our Ideation MeetUp we were able to welcome more than 60 people, with speakers from more than 10 organisations and one refugee. Everyone was keen on listening to different experiences and get to know various problems faced."}
+ - {text: "Suar told us his story, how he fled from Kurdistan in 2012 because of political and safety reasons. He then lived in Turkey for almost two years, where he learned Turkish but was not allowed to study or work. So he then carried on to get to Germany. In 2014, he left Turkey by foot, making his way through various countries until he eventually found to Austria, where he continued by car. When considering his border crossing, he had tried to use GPS on his smartphone but Google maps, for example, doesn’t provide information on where the safest place to cross a border on foot is.  What would have been helpful was information about how to enter a country safely. Additionally, as many refugees are weak, hungry, and dehydrated, information about where to get accessible food and water after entering a 'safe' country is critical. critical.
+All in all, what was most missing for him was information and guidance about what would help him to make a safe passage into a country and what to do after arriving."}
+
+ideationNextStepsTitle: "What next?"
+ideationNextSteps:
+ - {text: "Our next event will be the Hackathon held at Stylight on Saturday, the 28th of November. You can find more details on the schedule page. At this Hackathon we will tackle problems discussed at the Ideation as well as new ideas and solutions. Everyone is able to submit ideas <a href='https://docs.google.com/document/d/1T3MMKdSgdnsloF1LFqtQNWbw8o5Mse-iMDh0KIy00u8/edit?usp=sharing'>here</a>. Nevertheless, the actual teaming up will be done at the hackathon itself. To connect to fellow Hack'n'Helpers see our <a href='https://www.facebook.com/groups/hacknhelp/'>Facebook Group</a> or chat to us on <a href='http://slack.hacknhelp.org'>Slack</a>."}
+ - {text: "We hope to see all of you at the hackathon on Saturday!"}
+
 # Blog
 blogTitle: "Latest news"
 blogCommentsEnabled: true
@@ -205,50 +183,6 @@ showSessions: true
 teamBlockTitle: "About us"
 #aboutUs: "The Munich Student Chapter was founded in 2015. The chapter is established to primarily serve the wide scope of ACM which is advancing computing as a science and profession by supporting and training the next generation of computer scientists."
 aboutUs: "Hack'n'Help is an idea about helping the world by using tech. We are currently operating in Munich as a collaboration of Munich ACM and Stylight."
-# Logistics Find Way Block
-findWayTitle: "Find your way here"
-findWayDistance: "Distance"
-findWayDriving: "DRIVING"
-findWayWalking: "WALKING"
-findWayBicycling: "BICYCLING"
-findWayTransit: "TRANSIT"
-findWayFindFlight: "Find Flight"
-logisticsMapCenterCoordinates: "48.1506177,11.5470593"
-logisticsMapMobileCenterCoordinates: "48.1506177,11.5470593"
-logisticsMapAutoDirections: false
-
-# Logistics Direction Details Block
-directionDetailsImage: "direction-details.jpg"
-# directionDetailsTitle: "Get around Munich"
-# directionDetailsCards:
-#  - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
-#  - {title: "Public Transit", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
-#  - {title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
-# directionDetailsWideCards:
-#  -
-#   title: "Questions?"
-#   subCards:
-#    -
-#     title: "Hotels"
-#     links:
-#      - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-#      - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-#      - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-#      - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-#    -
-#     title: "Registration"
-#     links:
-#      - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-#      - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-#      - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-#      - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-#    -
-#     title: "Attendance Details"
-#     links:
-#      - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-#      - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-#      - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-#      - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
 
 # Hackathon
 hackathonTitle: "Hackathon"
@@ -262,13 +196,6 @@ hackathonRows:
 # Hackathon Judges Block (We dont need)
 judgesImage: "judges.jpg"
 judgesTitle: "Judges"
-
-# Hackathon Prizes Block (We dont need)
-prizesTitle: "Prizes"
-prizes:
- - {title: "2nd Place", image: "prize-2.png", info: "Amazing Moto 360"}
- - {title: "1nd Place", image: "prize-1.png", info: "Nexus 5 with pre-installed Android L"}
- - {title: "3nd Place", image: "prize-3.png", info: "Useful Chromecast"}
 
 # Hackathon Location Block (We dont need)
 hackathonLocationBlockTitle: "Location"
