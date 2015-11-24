@@ -2,3 +2,7 @@
   group: "Sponsors"
   elements:
     - {name: "Stylight", description: "Stylight", link: "http://www.stylight.de/", imageUrl: "stylight.png"}
+-
+  group: "Media Partner"
+  elements:
+    - {name: "SUN", description: "stipendiatisches Startupnetzwerk SUN e.V.", link: "http://www.startupnetzwerk.org/", imageUrl: "sun.png"}
