@@ -49,8 +49,8 @@ navigationLinks:
  #- {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Schedule"}
  #- {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/team/", text: "Team"}
- - {permalink: "/ideation/", text: "Ideation Review"}
+#  - {permalink: "/team/", text: "Team"}
+#  - {permalink: "/ideation/", text: "HacknHelp 2015"}
  #- {permalink: "/logistics/", text: "Logistics"}
 bottomNavigationLinks:
  #- {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
@@ -59,27 +59,27 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "Hack <typeout>"
-eventDate: "<h4>A local tech response to the european refugee crisis</h4> <br> <h5>19th November 2015</h5>"
-typeoutTextValues: '"and Help", "and Change", "for Refugees", ", Connect and Solve"'
-typeoutFallback: "and Help"
+heroTitle: "<h1>Hack'n'Help</h1>"
+eventDate: "<h4>Code for Good</h4> <br> <h5>14th January 2017</h5>"
+typeoutTextValues: ''
+typeoutFallback: ""
 heroButtons:
  #- {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
  #- {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
-aboutTitle: "Cytomining in Action"
+aboutTitle: "About Hack and Help"
 aboutBlock:
- - {title: "Awesome topic", image: "conference.jpg", text: "The first ever Cytomining Hackathon. Attend, ask questions and have fun." }
- - {title: "Awesome people", image: "workshop.jpg", text: "It's a meetup. Meet and talk to awesome people and get things started. Of course drinks and snacks are for free!" }
- - {title: "Awesome hacks", image: "hackathon.jpg", text: "Get things done and change how cytomining is done" }
+ - {title: "Code for Good", image: "conference.jpg", text: "Connect with motivated hackers and helpers. Solve local problems with global impact." }
+ - {title: "Two days, three tracks", image: "workshop.jpg", text: "Spend one weekend to hack education, the refugee crisis and mental health" }
+ - {title: "Attend and be inspired", image: "hackathon.jpg", text: "We strive not only to offer a space for rich discussion but also to serve as a call to action and a springboard for possible solutions." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "60", specialCharacter: "+", info: "attendees", detail: "from rockstar organisations and helpers"}
- - {count: "5", specialCharacter: "+", info: "tables", detail: "of snacks, pizza and beer"}
- - {count: "1", specialCharacter: "", info: "goal", detail: "solving a big problem"}
+ - {count: "50", specialCharacter: "", info: "Hackers", detail: "Making The World A Better Place"}
+ - {count: "3", specialCharacter: "", info: "Tracks", detail: "Hack Education, Refugee Crisis and Mental Health"}
+ - {count: "2", specialCharacter: "", info: "Days", detail: "Of Hacking, Innovating and Amazing People"}
 
 # Latest News Block (We dont need )
 latestNewsTitle: "Latest news"
